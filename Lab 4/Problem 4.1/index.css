@@ -1,0 +1,15 @@
+body{
+    background-color: #909090;
+}
+#h1{
+    color: rgb(135,206,250);
+}
+#div1{
+    background-color:rgba(211, 104, 104, 0.6);
+}
+#p1{
+    background-color: hsl(180, 50%, 50%);
+}
+#p2{
+    background-color:hsla(120,100%,50%,0.5);
+}
